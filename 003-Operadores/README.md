@@ -1,6 +1,6 @@
 # Python Desde Cero
 
-# 📖 Capítulo 003
+#  Capítulo 003
 
 # Operadores
 
@@ -12,7 +12,7 @@ Los operadores permiten realizar cálculos, comparar valores y evaluar condicion
 
 ---
 
-# 🎯 ¿Qué aprenderás?
+#  ¿Qué aprenderás?
 
 - Qué es un operador.
 - Operadores aritméticos.
@@ -115,7 +115,7 @@ not True = False
 
 ---
 
-# 💡 Ejercicio
+#  Ejercicio
 
 Crear dos variables numéricas y mostrar:
 
@@ -138,7 +138,7 @@ Finalmente probar:
 
 ---
 
-# 📌 ¿Sabías que?
+#  ¿Sabías que?
 
 En Python los operadores lógicos se escriben como palabras (`and`, `or`, `not`), mientras que en C# se utilizan símbolos (`&&`, `||`, `!`).
 
@@ -146,7 +146,7 @@ Es una de las primeras diferencias que notarás al aprender ambos lenguajes.
 
 ---
 
-# 🚀 Próximo capítulo
+#  Próximo capítulo
 
 ## Entrada y salida de datos
 
